@@ -1,0 +1,23 @@
+"Massaroli":
+  - firstname: ["Stefano", "S.", "S. M.", "Massaroli Stefano", "Massaroli* Stefano"]
+    url: https://github.com/massastrello
+
+"Michael":
+  - firstname: ["Michael", "M.", "M. P.", "Michael Poli"]
+    url: http://127.0.0.1:4000/al-folio/publications/
+
+"Park":
+  - firstname: ["Jinkyoo", "J.", "J. P.", "Park Jinkyoo"]
+    url: http://silab.kaist.ac.kr/our-team/
+
+"Garg":
+  - firstname: ["Animesh", "A.", "A. G.", "Animesh Garg"]
+    url: https://animesh.garg.tech/
+
+"Suzuki":
+  - firstname: ["Taiji", "T.", "T. S.", "Taiji Suzuki"]
+    url: http://ibis.t.u-tokyo.ac.jp/suzuki/
+
+"Ermon":
+  - firstname: ["Stefano", "S.", "S. E.", "Stefano Ermon"]
+    url: https://cs.stanford.edu/~ermon/
